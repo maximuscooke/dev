@@ -1,0 +1,1 @@
+g++ -std=c++14 -L /Users/davidcooke/dev/src/cpp/libcommon/ -I /Users/davidcooke/dev/src/cpp/libcommon/ -lcommon gltest.cpp -o gltest.exe

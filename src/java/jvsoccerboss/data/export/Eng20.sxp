@@ -1,0 +1,387 @@
+<SCHEDULE>
+<SETTINGS>
+1|20|2|2|2|2018|7|1|0|0|0|2021|7|21|0|0|0
+<SETTINGS>
+<FIXTURES>
+1|Arsenal vs Aston Villa|1|<nullptr>|-1|-1|-1|1|2|0|2019|1|26|0|0|0|Arsenal|Aston Villa|
+1|Arsenal vs Birmingham City|2|<nullptr>|-1|-1|-1|1|3|0|2019|4|4|0|0|0|Arsenal|Birmingham City|
+1|Arsenal vs Blackburn Rovers|3|<nullptr>|-1|-1|-1|1|4|0|2018|11|22|0|0|0|Arsenal|Blackburn Rovers|
+1|Arsenal vs Bolton Wanderers|4|<nullptr>|-1|-1|-1|1|5|0|2019|0|29|0|0|0|Arsenal|Bolton Wanderers|
+1|Arsenal vs Bournemouth|5|<nullptr>|-1|-1|-1|1|6|0|2019|0|19|0|0|0|Arsenal|Bournemouth|
+1|Arsenal vs Brentford|6|<nullptr>|-1|-1|-1|1|7|0|2019|3|20|0|0|0|Arsenal|Brentford|
+1|Arsenal vs Brighton|7|<nullptr>|-1|-1|-1|1|8|0|2018|8|22|0|0|0|Arsenal|Brighton|
+1|Arsenal vs Bristol City|8|<nullptr>|-1|-1|-1|1|9|0|2019|0|1|0|0|0|Arsenal|Bristol City|
+1|Arsenal vs Burnley|9|<nullptr>|-1|-1|-1|1|10|0|2018|11|8|0|0|0|Arsenal|Burnley|
+1|Arsenal vs Cardiff City|10|<nullptr>|-1|-1|-1|1|11|0|2018|9|20|0|0|0|Arsenal|Cardiff City|
+1|Arsenal vs Chelsea|11|<nullptr>|-1|-1|-1|1|12|0|2018|10|3|0|0|0|Arsenal|Chelsea|
+1|Arsenal vs Crystal Palace|12|<nullptr>|-1|-1|-1|1|13|0|2018|7|11|0|0|0|Arsenal|Crystal Palace|
+1|Arsenal vs Derby County|13|<nullptr>|-1|-1|-1|1|14|0|2019|2|9|0|0|0|Arsenal|Derby County|
+1|Arsenal vs Everton|14|<nullptr>|-1|-1|-1|1|15|0|2019|2|30|0|0|0|Arsenal|Everton|
+1|Arsenal vs Fulham|15|<nullptr>|-1|-1|-1|1|16|0|2019|1|23|0|0|0|Arsenal|Fulham|
+1|Arsenal vs Huddersfield|16|<nullptr>|-1|-1|-1|1|17|0|2018|11|1|0|0|0|Arsenal|Huddersfield|
+1|Arsenal vs Hull City|17|<nullptr>|-1|-1|-1|1|18|0|2018|8|29|0|0|0|Arsenal|Hull City|
+1|Arsenal vs Ipswich Town|18|<nullptr>|-1|-1|-1|1|19|0|2018|7|25|0|0|0|Arsenal|Ipswich Town|
+1|Arsenal vs Leeds United|19|<nullptr>|-1|-1|-1|1|20|0|2018|10|10|0|0|0|Arsenal|Leeds United|
+1|Aston Villa vs Arsenal|20|<nullptr>|-1|-1|-1|2|1|0|2018|10|24|0|0|0|Aston Villa|Arsenal|
+1|Aston Villa vs Birmingham City|21|<nullptr>|-1|-1|-1|2|3|0|2018|11|22|0|0|0|Aston Villa|Birmingham City|
+1|Aston Villa vs Blackburn Rovers|22|<nullptr>|-1|-1|-1|2|4|0|2019|3|6|0|0|0|Aston Villa|Blackburn Rovers|
+1|Aston Villa vs Bolton Wanderers|23|<nullptr>|-1|-1|-1|2|5|0|2018|7|11|0|0|0|Aston Villa|Bolton Wanderers|
+1|Aston Villa vs Bournemouth|24|<nullptr>|-1|-1|-1|2|6|0|2019|0|29|0|0|0|Aston Villa|Bournemouth|
+1|Aston Villa vs Brentford|25|<nullptr>|-1|-1|-1|2|7|0|2018|8|29|0|0|0|Aston Villa|Brentford|
+1|Aston Villa vs Brighton|26|<nullptr>|-1|-1|-1|2|8|0|2018|7|25|0|0|0|Aston Villa|Brighton|
+1|Aston Villa vs Bristol City|27|<nullptr>|-1|-1|-1|2|9|0|2019|3|20|0|0|0|Aston Villa|Bristol City|
+1|Aston Villa vs Burnley|28|<nullptr>|-1|-1|-1|2|10|0|2018|11|4|0|0|0|Aston Villa|Burnley|
+1|Aston Villa vs Cardiff City|29|<nullptr>|-1|-1|-1|2|11|0|2018|8|15|0|0|0|Aston Villa|Cardiff City|
+1|Aston Villa vs Chelsea|30|<nullptr>|-1|-1|-1|2|12|0|2018|11|8|0|0|0|Aston Villa|Chelsea|
+1|Aston Villa vs Crystal Palace|31|<nullptr>|-1|-1|-1|2|13|0|2019|2|2|0|0|0|Aston Villa|Crystal Palace|
+1|Aston Villa vs Derby County|32|<nullptr>|-1|-1|-1|2|14|0|2018|10|3|0|0|0|Aston Villa|Derby County|
+1|Aston Villa vs Everton|33|<nullptr>|-1|-1|-1|2|15|0|2019|2|16|0|0|0|Aston Villa|Everton|
+1|Aston Villa vs Fulham|34|<nullptr>|-1|-1|-1|2|16|0|2018|9|20|0|0|0|Aston Villa|Fulham|
+1|Aston Villa vs Huddersfield|35|<nullptr>|-1|-1|-1|2|17|0|2019|4|4|0|0|0|Aston Villa|Huddersfield|
+1|Aston Villa vs Hull City|36|<nullptr>|-1|-1|-1|2|18|0|2019|0|1|0|0|0|Aston Villa|Hull City|
+1|Aston Villa vs Ipswich Town|37|<nullptr>|-1|-1|-1|2|19|0|2019|0|19|0|0|0|Aston Villa|Ipswich Town|
+1|Aston Villa vs Leeds United|38|<nullptr>|-1|-1|-1|2|20|0|2019|1|23|0|0|0|Aston Villa|Leeds United|
+1|Birmingham City vs Arsenal|39|<nullptr>|-1|-1|-1|3|1|0|2018|11|26|0|0|0|Birmingham City|Arsenal|
+1|Birmingham City vs Aston Villa|40|<nullptr>|-1|-1|-1|3|2|0|2019|3|13|0|0|0|Birmingham City|Aston Villa|
+1|Birmingham City vs Blackburn Rovers|41|<nullptr>|-1|-1|-1|3|4|0|2019|1|9|0|0|0|Birmingham City|Blackburn Rovers|
+1|Birmingham City vs Bolton Wanderers|42|<nullptr>|-1|-1|-1|3|5|0|2019|2|16|0|0|0|Birmingham City|Bolton Wanderers|
+1|Birmingham City vs Bournemouth|43|<nullptr>|-1|-1|-1|3|6|0|2018|11|15|0|0|0|Birmingham City|Bournemouth|
+1|Birmingham City vs Brentford|44|<nullptr>|-1|-1|-1|3|7|0|2018|11|4|0|0|0|Birmingham City|Brentford|
+1|Birmingham City vs Brighton|45|<nullptr>|-1|-1|-1|3|8|0|2018|11|29|0|0|0|Birmingham City|Brighton|
+1|Birmingham City vs Bristol City|46|<nullptr>|-1|-1|-1|3|9|0|2018|8|1|0|0|0|Birmingham City|Bristol City|
+1|Birmingham City vs Burnley|47|<nullptr>|-1|-1|-1|3|10|0|2019|2|2|0|0|0|Birmingham City|Burnley|
+1|Birmingham City vs Cardiff City|48|<nullptr>|-1|-1|-1|3|11|0|2018|10|24|0|0|0|Birmingham City|Cardiff City|
+1|Birmingham City vs Chelsea|49|<nullptr>|-1|-1|-1|3|12|0|2019|0|12|0|0|0|Birmingham City|Chelsea|
+1|Birmingham City vs Crystal Palace|50|<nullptr>|-1|-1|-1|3|13|0|2019|4|12|0|0|0|Birmingham City|Crystal Palace|
+1|Birmingham City vs Derby County|51|<nullptr>|-1|-1|-1|3|14|0|2018|7|18|0|0|0|Birmingham City|Derby County|
+1|Birmingham City vs Everton|52|<nullptr>|-1|-1|-1|3|15|0|2019|3|27|0|0|0|Birmingham City|Everton|
+1|Birmingham City vs Fulham|53|<nullptr>|-1|-1|-1|3|16|0|2019|2|30|0|0|0|Birmingham City|Fulham|
+1|Birmingham City vs Huddersfield|54|<nullptr>|-1|-1|-1|3|17|0|2018|8|22|0|0|0|Birmingham City|Huddersfield|
+1|Birmingham City vs Hull City|55|<nullptr>|-1|-1|-1|3|18|0|2019|1|2|0|0|0|Birmingham City|Hull City|
+1|Birmingham City vs Ipswich Town|56|<nullptr>|-1|-1|-1|3|19|0|2018|9|6|0|0|0|Birmingham City|Ipswich Town|
+1|Birmingham City vs Leeds United|57|<nullptr>|-1|-1|-1|3|20|0|2018|9|27|0|0|0|Birmingham City|Leeds United|
+1|Blackburn Rovers vs Arsenal|58|<nullptr>|-1|-1|-1|4|1|0|2019|4|12|0|0|0|Blackburn Rovers|Arsenal|
+1|Blackburn Rovers vs Aston Villa|59|<nullptr>|-1|-1|-1|4|2|0|2018|8|22|0|0|0|Blackburn Rovers|Aston Villa|
+1|Blackburn Rovers vs Birmingham City|60|<nullptr>|-1|-1|-1|4|3|0|2018|11|8|0|0|0|Blackburn Rovers|Birmingham City|
+1|Blackburn Rovers vs Bolton Wanderers|61|<nullptr>|-1|-1|-1|4|5|0|2019|3|13|0|0|0|Blackburn Rovers|Bolton Wanderers|
+1|Blackburn Rovers vs Bournemouth|62|<nullptr>|-1|-1|-1|4|6|0|2018|9|27|0|0|0|Blackburn Rovers|Bournemouth|
+1|Blackburn Rovers vs Brentford|63|<nullptr>|-1|-1|-1|4|7|0|2019|2|2|0|0|0|Blackburn Rovers|Brentford|
+1|Blackburn Rovers vs Brighton|64|<nullptr>|-1|-1|-1|4|8|0|2018|11|26|0|0|0|Blackburn Rovers|Brighton|
+1|Blackburn Rovers vs Bristol City|65|<nullptr>|-1|-1|-1|4|9|0|2019|0|12|0|0|0|Blackburn Rovers|Bristol City|
+1|Blackburn Rovers vs Burnley|66|<nullptr>|-1|-1|-1|4|10|0|2018|9|6|0|0|0|Blackburn Rovers|Burnley|
+1|Blackburn Rovers vs Cardiff City|67|<nullptr>|-1|-1|-1|4|11|0|2019|2|16|0|0|0|Blackburn Rovers|Cardiff City|
+1|Blackburn Rovers vs Chelsea|68|<nullptr>|-1|-1|-1|4|12|0|2018|11|4|0|0|0|Blackburn Rovers|Chelsea|
+1|Blackburn Rovers vs Crystal Palace|69|<nullptr>|-1|-1|-1|4|13|0|2019|3|27|0|0|0|Blackburn Rovers|Crystal Palace|
+1|Blackburn Rovers vs Derby County|70|<nullptr>|-1|-1|-1|4|14|0|2018|8|1|0|0|0|Blackburn Rovers|Derby County|
+1|Blackburn Rovers vs Everton|71|<nullptr>|-1|-1|-1|4|15|0|2018|10|24|0|0|0|Blackburn Rovers|Everton|
+1|Blackburn Rovers vs Fulham|72|<nullptr>|-1|-1|-1|4|16|0|2019|1|2|0|0|0|Blackburn Rovers|Fulham|
+1|Blackburn Rovers vs Huddersfield|73|<nullptr>|-1|-1|-1|4|17|0|2019|1|23|0|0|0|Blackburn Rovers|Huddersfield|
+1|Blackburn Rovers vs Hull City|74|<nullptr>|-1|-1|-1|4|18|0|2018|7|18|0|0|0|Blackburn Rovers|Hull City|
+1|Blackburn Rovers vs Ipswich Town|75|<nullptr>|-1|-1|-1|4|19|0|2018|11|29|0|0|0|Blackburn Rovers|Ipswich Town|
+1|Blackburn Rovers vs Leeds United|76|<nullptr>|-1|-1|-1|4|20|0|2019|2|30|0|0|0|Blackburn Rovers|Leeds United|
+1|Bolton Wanderers vs Arsenal|77|<nullptr>|-1|-1|-1|5|1|0|2018|8|1|0|0|0|Bolton Wanderers|Arsenal|
+1|Bolton Wanderers vs Aston Villa|78|<nullptr>|-1|-1|-1|5|2|0|2019|1|2|0|0|0|Bolton Wanderers|Aston Villa|
+1|Bolton Wanderers vs Birmingham City|79|<nullptr>|-1|-1|-1|5|3|0|2018|10|10|0|0|0|Bolton Wanderers|Birmingham City|
+1|Bolton Wanderers vs Blackburn Rovers|80|<nullptr>|-1|-1|-1|5|4|0|2018|8|29|0|0|0|Bolton Wanderers|Blackburn Rovers|
+1|Bolton Wanderers vs Bournemouth|81|<nullptr>|-1|-1|-1|5|6|0|2019|2|30|0|0|0|Bolton Wanderers|Bournemouth|
+1|Bolton Wanderers vs Brentford|82|<nullptr>|-1|-1|-1|5|7|0|2019|4|4|0|0|0|Bolton Wanderers|Brentford|
+1|Bolton Wanderers vs Brighton|83|<nullptr>|-1|-1|-1|5|8|0|2019|1|26|0|0|0|Bolton Wanderers|Brighton|
+1|Bolton Wanderers vs Bristol City|84|<nullptr>|-1|-1|-1|5|9|0|2018|9|20|0|0|0|Bolton Wanderers|Bristol City|
+1|Bolton Wanderers vs Burnley|85|<nullptr>|-1|-1|-1|5|10|0|2019|0|12|0|0|0|Bolton Wanderers|Burnley|
+1|Bolton Wanderers vs Cardiff City|86|<nullptr>|-1|-1|-1|5|11|0|2018|10|3|0|0|0|Bolton Wanderers|Cardiff City|
+1|Bolton Wanderers vs Chelsea|87|<nullptr>|-1|-1|-1|5|12|0|2019|3|20|0|0|0|Bolton Wanderers|Chelsea|
+1|Bolton Wanderers vs Crystal Palace|88|<nullptr>|-1|-1|-1|5|13|0|2018|8|22|0|0|0|Bolton Wanderers|Crystal Palace|
+1|Bolton Wanderers vs Derby County|89|<nullptr>|-1|-1|-1|5|14|0|2018|11|22|0|0|0|Bolton Wanderers|Derby County|
+1|Bolton Wanderers vs Everton|90|<nullptr>|-1|-1|-1|5|15|0|2018|7|18|0|0|0|Bolton Wanderers|Everton|
+1|Bolton Wanderers vs Fulham|91|<nullptr>|-1|-1|-1|5|16|0|2018|11|8|0|0|0|Bolton Wanderers|Fulham|
+1|Bolton Wanderers vs Huddersfield|92|<nullptr>|-1|-1|-1|5|17|0|2019|0|1|0|0|0|Bolton Wanderers|Huddersfield|
+1|Bolton Wanderers vs Hull City|93|<nullptr>|-1|-1|-1|5|18|0|2019|1|23|0|0|0|Bolton Wanderers|Hull City|
+1|Bolton Wanderers vs Ipswich Town|94|<nullptr>|-1|-1|-1|5|19|0|2019|2|9|0|0|0|Bolton Wanderers|Ipswich Town|
+1|Bolton Wanderers vs Leeds United|95|<nullptr>|-1|-1|-1|5|20|0|2018|11|1|0|0|0|Bolton Wanderers|Leeds United|
+1|Bournemouth vs Arsenal|96|<nullptr>|-1|-1|-1|6|1|0|2018|7|18|0|0|0|Bournemouth|Arsenal|
+1|Bournemouth vs Aston Villa|97|<nullptr>|-1|-1|-1|6|2|0|2018|8|1|0|0|0|Bournemouth|Aston Villa|
+1|Bournemouth vs Birmingham City|98|<nullptr>|-1|-1|-1|6|3|0|2019|1|23|0|0|0|Bournemouth|Birmingham City|
+1|Bournemouth vs Blackburn Rovers|99|<nullptr>|-1|-1|-1|6|4|0|2019|3|20|0|0|0|Bournemouth|Blackburn Rovers|
+1|Bournemouth vs Bolton Wanderers|100|<nullptr>|-1|-1|-1|6|5|0|2018|8|15|0|0|0|Bournemouth|Bolton Wanderers|
+1|Bournemouth vs Brentford|101|<nullptr>|-1|-1|-1|6|7|0|2018|10|3|0|0|0|Bournemouth|Brentford|
+1|Bournemouth vs Brighton|102|<nullptr>|-1|-1|-1|6|8|0|2018|10|10|0|0|0|Bournemouth|Brighton|
+1|Bournemouth vs Bristol City|103|<nullptr>|-1|-1|-1|6|9|0|2018|11|1|0|0|0|Bournemouth|Bristol City|
+1|Bournemouth vs Burnley|104|<nullptr>|-1|-1|-1|6|10|0|2019|1|2|0|0|0|Bournemouth|Burnley|
+1|Bournemouth vs Cardiff City|105|<nullptr>|-1|-1|-1|6|11|0|2018|11|22|0|0|0|Bournemouth|Cardiff City|
+1|Bournemouth vs Chelsea|106|<nullptr>|-1|-1|-1|6|12|0|2018|8|29|0|0|0|Bournemouth|Chelsea|
+1|Bournemouth vs Crystal Palace|107|<nullptr>|-1|-1|-1|6|13|0|2018|11|8|0|0|0|Bournemouth|Crystal Palace|
+1|Bournemouth vs Derby County|108|<nullptr>|-1|-1|-1|6|14|0|2018|9|20|0|0|0|Bournemouth|Derby County|
+1|Bournemouth vs Everton|109|<nullptr>|-1|-1|-1|6|15|0|2019|0|12|0|0|0|Bournemouth|Everton|
+1|Bournemouth vs Fulham|110|<nullptr>|-1|-1|-1|6|16|0|2019|0|1|0|0|0|Bournemouth|Fulham|
+1|Bournemouth vs Huddersfield|111|<nullptr>|-1|-1|-1|6|17|0|2019|1|26|0|0|0|Bournemouth|Huddersfield|
+1|Bournemouth vs Hull City|112|<nullptr>|-1|-1|-1|6|18|0|2019|4|4|0|0|0|Bournemouth|Hull City|
+1|Bournemouth vs Ipswich Town|113|<nullptr>|-1|-1|-1|6|19|0|2019|3|6|0|0|0|Bournemouth|Ipswich Town|
+1|Bournemouth vs Leeds United|114|<nullptr>|-1|-1|-1|6|20|0|2019|2|9|0|0|0|Bournemouth|Leeds United|
+1|Brentford vs Arsenal|115|<nullptr>|-1|-1|-1|7|1|0|2018|9|27|0|0|0|Brentford|Arsenal|
+1|Brentford vs Aston Villa|116|<nullptr>|-1|-1|-1|7|2|0|2019|4|12|0|0|0|Brentford|Aston Villa|
+1|Brentford vs Birmingham City|117|<nullptr>|-1|-1|-1|7|3|0|2019|2|9|0|0|0|Brentford|Birmingham City|
+1|Brentford vs Blackburn Rovers|118|<nullptr>|-1|-1|-1|7|4|0|2018|11|1|0|0|0|Brentford|Blackburn Rovers|
+1|Brentford vs Bolton Wanderers|119|<nullptr>|-1|-1|-1|7|5|0|2018|11|26|0|0|0|Brentford|Bolton Wanderers|
+1|Brentford vs Bournemouth|120|<nullptr>|-1|-1|-1|7|6|0|2018|11|29|0|0|0|Brentford|Bournemouth|
+1|Brentford vs Brighton|121|<nullptr>|-1|-1|-1|7|8|0|2019|3|27|0|0|0|Brentford|Brighton|
+1|Brentford vs Bristol City|122|<nullptr>|-1|-1|-1|7|9|0|2019|1|2|0|0|0|Brentford|Bristol City|
+1|Brentford vs Burnley|123|<nullptr>|-1|-1|-1|7|10|0|2019|2|30|0|0|0|Brentford|Burnley|
+1|Brentford vs Cardiff City|124|<nullptr>|-1|-1|-1|7|11|0|2018|11|15|0|0|0|Brentford|Cardiff City|
+1|Brentford vs Chelsea|125|<nullptr>|-1|-1|-1|7|12|0|2018|7|18|0|0|0|Brentford|Chelsea|
+1|Brentford vs Crystal Palace|126|<nullptr>|-1|-1|-1|7|13|0|2019|3|13|0|0|0|Brentford|Crystal Palace|
+1|Brentford vs Derby County|127|<nullptr>|-1|-1|-1|7|14|0|2019|1|26|0|0|0|Brentford|Derby County|
+1|Brentford vs Everton|128|<nullptr>|-1|-1|-1|7|15|0|2018|8|22|0|0|0|Brentford|Everton|
+1|Brentford vs Fulham|129|<nullptr>|-1|-1|-1|7|16|0|2018|8|1|0|0|0|Brentford|Fulham|
+1|Brentford vs Huddersfield|130|<nullptr>|-1|-1|-1|7|17|0|2018|10|10|0|0|0|Brentford|Huddersfield|
+1|Brentford vs Hull City|131|<nullptr>|-1|-1|-1|7|18|0|2019|0|12|0|0|0|Brentford|Hull City|
+1|Brentford vs Ipswich Town|132|<nullptr>|-1|-1|-1|7|19|0|2019|1|9|0|0|0|Brentford|Ipswich Town|
+1|Brentford vs Leeds United|133|<nullptr>|-1|-1|-1|7|20|0|2018|9|6|0|0|0|Brentford|Leeds United|
+1|Brighton vs Arsenal|134|<nullptr>|-1|-1|-1|8|1|0|2019|3|6|0|0|0|Brighton|Arsenal|
+1|Brighton vs Aston Villa|135|<nullptr>|-1|-1|-1|8|2|0|2019|0|12|0|0|0|Brighton|Aston Villa|
+1|Brighton vs Birmingham City|136|<nullptr>|-1|-1|-1|8|3|0|2018|10|3|0|0|0|Brighton|Birmingham City|
+1|Brighton vs Blackburn Rovers|137|<nullptr>|-1|-1|-1|8|4|0|2019|4|4|0|0|0|Brighton|Blackburn Rovers|
+1|Brighton vs Bolton Wanderers|138|<nullptr>|-1|-1|-1|8|5|0|2018|10|24|0|0|0|Brighton|Bolton Wanderers|
+1|Brighton vs Bournemouth|139|<nullptr>|-1|-1|-1|8|6|0|2019|2|16|0|0|0|Brighton|Bournemouth|
+1|Brighton vs Brentford|140|<nullptr>|-1|-1|-1|8|7|0|2018|9|20|0|0|0|Brighton|Brentford|
+1|Brighton vs Bristol City|141|<nullptr>|-1|-1|-1|8|9|0|2018|8|29|0|0|0|Brighton|Bristol City|
+1|Brighton vs Burnley|142|<nullptr>|-1|-1|-1|8|10|0|2018|8|1|0|0|0|Brighton|Burnley|
+1|Brighton vs Cardiff City|143|<nullptr>|-1|-1|-1|8|11|0|2019|0|1|0|0|0|Brighton|Cardiff City|
+1|Brighton vs Chelsea|144|<nullptr>|-1|-1|-1|8|12|0|2019|2|2|0|0|0|Brighton|Chelsea|
+1|Brighton vs Crystal Palace|145|<nullptr>|-1|-1|-1|8|13|0|2019|1|23|0|0|0|Brighton|Crystal Palace|
+1|Brighton vs Derby County|146|<nullptr>|-1|-1|-1|8|14|0|2019|3|20|0|0|0|Brighton|Derby County|
+1|Brighton vs Everton|147|<nullptr>|-1|-1|-1|8|15|0|2018|11|5|0|0|0|Brighton|Everton|
+1|Brighton vs Fulham|148|<nullptr>|-1|-1|-1|8|16|0|2018|7|18|0|0|0|Brighton|Fulham|
+1|Brighton vs Huddersfield|149|<nullptr>|-1|-1|-1|8|17|0|2018|11|22|0|0|0|Brighton|Huddersfield|
+1|Brighton vs Hull City|150|<nullptr>|-1|-1|-1|8|18|0|2018|11|8|0|0|0|Brighton|Hull City|
+1|Brighton vs Ipswich Town|151|<nullptr>|-1|-1|-1|8|19|0|2018|8|15|0|0|0|Brighton|Ipswich Town|
+1|Brighton vs Leeds United|152|<nullptr>|-1|-1|-1|8|20|0|2019|1|2|0|0|0|Brighton|Leeds United|
+1|Bristol City vs Arsenal|153|<nullptr>|-1|-1|-1|9|1|0|2018|9|6|0|0|0|Bristol City|Arsenal|
+1|Bristol City vs Aston Villa|154|<nullptr>|-1|-1|-1|9|2|0|2018|9|27|0|0|0|Bristol City|Aston Villa|
+1|Bristol City vs Birmingham City|155|<nullptr>|-1|-1|-1|9|3|0|2019|0|29|0|0|0|Bristol City|Birmingham City|
+1|Bristol City vs Blackburn Rovers|156|<nullptr>|-1|-1|-1|9|4|0|2018|7|25|0|0|0|Bristol City|Blackburn Rovers|
+1|Bristol City vs Bolton Wanderers|157|<nullptr>|-1|-1|-1|9|5|0|2019|3|27|0|0|0|Bristol City|Bolton Wanderers|
+1|Bristol City vs Bournemouth|158|<nullptr>|-1|-1|-1|9|6|0|2019|2|2|0|0|0|Bristol City|Bournemouth|
+1|Bristol City vs Brentford|159|<nullptr>|-1|-1|-1|9|7|0|2018|7|11|0|0|0|Bristol City|Brentford|
+1|Bristol City vs Brighton|160|<nullptr>|-1|-1|-1|9|8|0|2019|3|13|0|0|0|Bristol City|Brighton|
+1|Bristol City vs Burnley|161|<nullptr>|-1|-1|-1|9|10|0|2018|11|29|0|0|0|Bristol City|Burnley|
+1|Bristol City vs Cardiff City|162|<nullptr>|-1|-1|-1|9|11|0|2018|11|4|0|0|0|Bristol City|Cardiff City|
+1|Bristol City vs Chelsea|163|<nullptr>|-1|-1|-1|9|12|0|2019|2|16|0|0|0|Bristol City|Chelsea|
+1|Bristol City vs Crystal Palace|164|<nullptr>|-1|-1|-1|9|13|0|2019|2|30|0|0|0|Bristol City|Crystal Palace|
+1|Bristol City vs Derby County|165|<nullptr>|-1|-1|-1|9|14|0|2019|1|9|0|0|0|Bristol City|Derby County|
+1|Bristol City vs Everton|166|<nullptr>|-1|-1|-1|9|15|0|2019|4|12|0|0|0|Bristol City|Everton|
+1|Bristol City vs Fulham|167|<nullptr>|-1|-1|-1|9|16|0|2018|10|24|0|0|0|Bristol City|Fulham|
+1|Bristol City vs Huddersfield|168|<nullptr>|-1|-1|-1|9|17|0|2019|0|19|0|0|0|Bristol City|Huddersfield|
+1|Bristol City vs Hull City|169|<nullptr>|-1|-1|-1|9|18|0|2018|8|22|0|0|0|Bristol City|Hull City|
+1|Bristol City vs Ipswich Town|170|<nullptr>|-1|-1|-1|9|19|0|2018|11|15|0|0|0|Bristol City|Ipswich Town|
+1|Bristol City vs Leeds United|171|<nullptr>|-1|-1|-1|9|20|0|2018|11|26|0|0|0|Bristol City|Leeds United|
+1|Burnley vs Arsenal|172|<nullptr>|-1|-1|-1|10|1|0|2019|1|9|0|0|0|Burnley|Arsenal|
+1|Burnley vs Aston Villa|173|<nullptr>|-1|-1|-1|10|2|0|2019|2|9|0|0|0|Burnley|Aston Villa|
+1|Burnley vs Birmingham City|174|<nullptr>|-1|-1|-1|10|3|0|2018|11|1|0|0|0|Burnley|Birmingham City|
+1|Burnley vs Blackburn Rovers|175|<nullptr>|-1|-1|-1|10|4|0|2019|0|1|0|0|0|Burnley|Blackburn Rovers|
+1|Burnley vs Bolton Wanderers|176|<nullptr>|-1|-1|-1|10|5|0|2018|7|25|0|0|0|Burnley|Bolton Wanderers|
+1|Burnley vs Bournemouth|177|<nullptr>|-1|-1|-1|10|6|0|2018|7|11|0|0|0|Burnley|Bournemouth|
+1|Burnley vs Brentford|178|<nullptr>|-1|-1|-1|10|7|0|2018|8|15|0|0|0|Burnley|Brentford|
+1|Burnley vs Brighton|179|<nullptr>|-1|-1|-1|10|8|0|2019|0|29|0|0|0|Burnley|Brighton|
+1|Burnley vs Bristol City|180|<nullptr>|-1|-1|-1|10|9|0|2018|10|3|0|0|0|Burnley|Bristol City|
+1|Burnley vs Cardiff City|181|<nullptr>|-1|-1|-1|10|11|0|2019|3|6|0|0|0|Burnley|Cardiff City|
+1|Burnley vs Chelsea|182|<nullptr>|-1|-1|-1|10|12|0|2018|9|20|0|0|0|Burnley|Chelsea|
+1|Burnley vs Crystal Palace|183|<nullptr>|-1|-1|-1|10|13|0|2019|0|19|0|0|0|Burnley|Crystal Palace|
+1|Burnley vs Derby County|184|<nullptr>|-1|-1|-1|10|14|0|2019|4|4|0|0|0|Burnley|Derby County|
+1|Burnley vs Everton|185|<nullptr>|-1|-1|-1|10|15|0|2018|11|15|0|0|0|Burnley|Everton|
+1|Burnley vs Fulham|186|<nullptr>|-1|-1|-1|10|16|0|2018|11|22|0|0|0|Burnley|Fulham|
+1|Burnley vs Huddersfield|187|<nullptr>|-1|-1|-1|10|17|0|2018|8|29|0|0|0|Burnley|Huddersfield|
+1|Burnley vs Hull City|188|<nullptr>|-1|-1|-1|10|18|0|2019|3|20|0|0|0|Burnley|Hull City|
+1|Burnley vs Ipswich Town|189|<nullptr>|-1|-1|-1|10|19|0|2018|10|10|0|0|0|Burnley|Ipswich Town|
+1|Burnley vs Leeds United|190|<nullptr>|-1|-1|-1|10|20|0|2019|1|26|0|0|0|Burnley|Leeds United|
+1|Cardiff City vs Arsenal|191|<nullptr>|-1|-1|-1|11|1|0|2019|3|27|0|0|0|Cardiff City|Arsenal|
+1|Cardiff City vs Aston Villa|192|<nullptr>|-1|-1|-1|11|2|0|2019|2|30|0|0|0|Cardiff City|Aston Villa|
+1|Cardiff City vs Birmingham City|193|<nullptr>|-1|-1|-1|11|3|0|2019|1|26|0|0|0|Cardiff City|Birmingham City|
+1|Cardiff City vs Blackburn Rovers|194|<nullptr>|-1|-1|-1|11|4|0|2018|10|10|0|0|0|Cardiff City|Blackburn Rovers|
+1|Cardiff City vs Bolton Wanderers|195|<nullptr>|-1|-1|-1|11|5|0|2018|11|29|0|0|0|Cardiff City|Bolton Wanderers|
+1|Cardiff City vs Bournemouth|196|<nullptr>|-1|-1|-1|11|6|0|2019|4|12|0|0|0|Cardiff City|Bournemouth|
+1|Cardiff City vs Brentford|197|<nullptr>|-1|-1|-1|11|7|0|2019|1|23|0|0|0|Cardiff City|Brentford|
+1|Cardiff City vs Brighton|198|<nullptr>|-1|-1|-1|11|8|0|2018|9|6|0|0|0|Cardiff City|Brighton|
+1|Cardiff City vs Bristol City|199|<nullptr>|-1|-1|-1|11|9|0|2019|2|9|0|0|0|Cardiff City|Bristol City|
+1|Cardiff City vs Burnley|200|<nullptr>|-1|-1|-1|11|10|0|2018|8|22|0|0|0|Cardiff City|Burnley|
+1|Cardiff City vs Chelsea|201|<nullptr>|-1|-1|-1|11|12|0|2018|8|1|0|0|0|Cardiff City|Chelsea|
+1|Cardiff City vs Crystal Palace|202|<nullptr>|-1|-1|-1|11|13|0|2018|11|26|0|0|0|Cardiff City|Crystal Palace|
+1|Cardiff City vs Derby County|203|<nullptr>|-1|-1|-1|11|14|0|2019|1|2|0|0|0|Cardiff City|Derby County|
+1|Cardiff City vs Everton|204|<nullptr>|-1|-1|-1|11|15|0|2019|3|13|0|0|0|Cardiff City|Everton|
+1|Cardiff City vs Fulham|205|<nullptr>|-1|-1|-1|11|16|0|2019|0|12|0|0|0|Cardiff City|Fulham|
+1|Cardiff City vs Huddersfield|206|<nullptr>|-1|-1|-1|11|17|0|2018|11|8|0|0|0|Cardiff City|Huddersfield|
+1|Cardiff City vs Hull City|207|<nullptr>|-1|-1|-1|11|18|0|2018|11|1|0|0|0|Cardiff City|Hull City|
+1|Cardiff City vs Ipswich Town|208|<nullptr>|-1|-1|-1|11|19|0|2018|9|27|0|0|0|Cardiff City|Ipswich Town|
+1|Cardiff City vs Leeds United|209|<nullptr>|-1|-1|-1|11|20|0|2018|7|18|0|0|0|Cardiff City|Leeds United|
+1|Chelsea vs Arsenal|210|<nullptr>|-1|-1|-1|12|1|0|2018|11|29|0|0|0|Chelsea|Arsenal|
+1|Chelsea vs Aston Villa|211|<nullptr>|-1|-1|-1|12|2|0|2019|1|9|0|0|0|Chelsea|Aston Villa|
+1|Chelsea vs Birmingham City|212|<nullptr>|-1|-1|-1|12|3|0|2018|7|25|0|0|0|Chelsea|Birmingham City|
+1|Chelsea vs Blackburn Rovers|213|<nullptr>|-1|-1|-1|12|4|0|2019|2|9|0|0|0|Chelsea|Blackburn Rovers|
+1|Chelsea vs Bolton Wanderers|214|<nullptr>|-1|-1|-1|12|5|0|2018|9|27|0|0|0|Chelsea|Bolton Wanderers|
+1|Chelsea vs Bournemouth|215|<nullptr>|-1|-1|-1|12|6|0|2019|3|13|0|0|0|Chelsea|Bournemouth|
+1|Chelsea vs Brentford|216|<nullptr>|-1|-1|-1|12|7|0|2019|0|19|0|0|0|Chelsea|Brentford|
+1|Chelsea vs Brighton|217|<nullptr>|-1|-1|-1|12|8|0|2018|11|1|0|0|0|Chelsea|Brighton|
+1|Chelsea vs Bristol City|218|<nullptr>|-1|-1|-1|12|9|0|2018|10|10|0|0|0|Chelsea|Bristol City|
+1|Chelsea vs Burnley|219|<nullptr>|-1|-1|-1|12|10|0|2019|3|27|0|0|0|Chelsea|Burnley|
+1|Chelsea vs Cardiff City|220|<nullptr>|-1|-1|-1|12|11|0|2019|0|30|0|0|0|Chelsea|Cardiff City|
+1|Chelsea vs Crystal Palace|221|<nullptr>|-1|-1|-1|12|13|0|2018|9|6|0|0|0|Chelsea|Crystal Palace|
+1|Chelsea vs Derby County|222|<nullptr>|-1|-1|-1|12|14|0|2018|11|15|0|0|0|Chelsea|Derby County|
+1|Chelsea vs Everton|223|<nullptr>|-1|-1|-1|12|15|0|2018|11|26|0|0|0|Chelsea|Everton|
+1|Chelsea vs Fulham|224|<nullptr>|-1|-1|-1|12|16|0|2018|8|22|0|0|0|Chelsea|Fulham|
+1|Chelsea vs Huddersfield|225|<nullptr>|-1|-1|-1|12|17|0|2019|2|30|0|0|0|Chelsea|Huddersfield|
+1|Chelsea vs Hull City|226|<nullptr>|-1|-1|-1|12|18|0|2019|1|27|0|0|0|Chelsea|Hull City|
+1|Chelsea vs Ipswich Town|227|<nullptr>|-1|-1|-1|12|19|0|2018|7|11|0|0|0|Chelsea|Ipswich Town|
+1|Chelsea vs Leeds United|228|<nullptr>|-1|-1|-1|12|20|0|2019|4|12|0|0|0|Chelsea|Leeds United|
+1|Crystal Palace vs Arsenal|229|<nullptr>|-1|-1|-1|13|1|0|2019|1|2|0|0|0|Crystal Palace|Arsenal|
+1|Crystal Palace vs Aston Villa|230|<nullptr>|-1|-1|-1|13|2|0|2018|11|1|0|0|0|Crystal Palace|Aston Villa|
+1|Crystal Palace vs Birmingham City|231|<nullptr>|-1|-1|-1|13|3|0|2018|8|29|0|0|0|Crystal Palace|Birmingham City|
+1|Crystal Palace vs Blackburn Rovers|232|<nullptr>|-1|-1|-1|13|4|0|2018|9|20|0|0|0|Crystal Palace|Blackburn Rovers|
+1|Crystal Palace vs Bolton Wanderers|233|<nullptr>|-1|-1|-1|13|5|0|2019|3|6|0|0|0|Crystal Palace|Bolton Wanderers|
+1|Crystal Palace vs Bournemouth|234|<nullptr>|-1|-1|-1|13|6|0|2019|1|9|0|0|0|Crystal Palace|Bournemouth|
+1|Crystal Palace vs Brentford|235|<nullptr>|-1|-1|-1|13|7|0|2018|11|22|0|0|0|Crystal Palace|Brentford|
+1|Crystal Palace vs Brighton|236|<nullptr>|-1|-1|-1|13|8|0|2018|11|15|0|0|0|Crystal Palace|Brighton|
+1|Crystal Palace vs Bristol City|237|<nullptr>|-1|-1|-1|13|9|0|2018|8|15|0|0|0|Crystal Palace|Bristol City|
+1|Crystal Palace vs Burnley|238|<nullptr>|-1|-1|-1|13|10|0|2018|7|18|0|0|0|Crystal Palace|Burnley|
+1|Crystal Palace vs Cardiff City|239|<nullptr>|-1|-1|-1|13|11|0|2019|4|4|0|0|0|Crystal Palace|Cardiff City|
+1|Crystal Palace vs Chelsea|240|<nullptr>|-1|-1|-1|13|12|0|2019|0|1|0|0|0|Crystal Palace|Chelsea|
+1|Crystal Palace vs Derby County|241|<nullptr>|-1|-1|-1|13|14|0|2018|10|10|0|0|0|Crystal Palace|Derby County|
+1|Crystal Palace vs Everton|242|<nullptr>|-1|-1|-1|13|15|0|2018|8|1|0|0|0|Crystal Palace|Everton|
+1|Crystal Palace vs Fulham|243|<nullptr>|-1|-1|-1|13|16|0|2018|10|3|0|0|0|Crystal Palace|Fulham|
+1|Crystal Palace vs Huddersfield|244|<nullptr>|-1|-1|-1|13|17|0|2019|3|20|0|0|0|Crystal Palace|Huddersfield|
+1|Crystal Palace vs Hull City|245|<nullptr>|-1|-1|-1|13|18|0|2019|2|9|0|0|0|Crystal Palace|Hull City|
+1|Crystal Palace vs Ipswich Town|246|<nullptr>|-1|-1|-1|13|19|0|2019|1|27|0|0|0|Crystal Palace|Ipswich Town|
+1|Crystal Palace vs Leeds United|247|<nullptr>|-1|-1|-1|13|20|0|2019|0|12|0|0|0|Crystal Palace|Leeds United|
+1|Derby County vs Arsenal|248|<nullptr>|-1|-1|-1|14|1|0|2018|11|4|0|0|0|Derby County|Arsenal|
+1|Derby County vs Aston Villa|249|<nullptr>|-1|-1|-1|14|2|0|2018|11|29|0|0|0|Derby County|Aston Villa|
+1|Derby County vs Birmingham City|250|<nullptr>|-1|-1|-1|14|3|0|2019|0|19|0|0|0|Derby County|Birmingham City|
+1|Derby County vs Blackburn Rovers|251|<nullptr>|-1|-1|-1|14|4|0|2019|0|29|0|0|0|Derby County|Blackburn Rovers|
+1|Derby County vs Bolton Wanderers|252|<nullptr>|-1|-1|-1|14|5|0|2019|4|12|0|0|0|Derby County|Bolton Wanderers|
+1|Derby County vs Bournemouth|253|<nullptr>|-1|-1|-1|14|6|0|2019|3|27|0|0|0|Derby County|Bournemouth|
+1|Derby County vs Brentford|254|<nullptr>|-1|-1|-1|14|7|0|2018|10|24|0|0|0|Derby County|Brentford|
+1|Derby County vs Brighton|255|<nullptr>|-1|-1|-1|14|8|0|2018|9|27|0|0|0|Derby County|Brighton|
+1|Derby County vs Bristol City|256|<nullptr>|-1|-1|-1|14|9|0|2018|11|8|0|0|0|Derby County|Bristol City|
+1|Derby County vs Burnley|257|<nullptr>|-1|-1|-1|14|10|0|2018|11|26|0|0|0|Derby County|Burnley|
+1|Derby County vs Cardiff City|258|<nullptr>|-1|-1|-1|14|11|0|2018|7|11|0|0|0|Derby County|Cardiff City|
+1|Derby County vs Chelsea|259|<nullptr>|-1|-1|-1|14|12|0|2019|1|23|0|0|0|Derby County|Chelsea|
+1|Derby County vs Crystal Palace|260|<nullptr>|-1|-1|-1|14|13|0|2019|2|16|0|0|0|Derby County|Crystal Palace|
+1|Derby County vs Everton|261|<nullptr>|-1|-1|-1|14|15|0|2018|9|6|0|0|0|Derby County|Everton|
+1|Derby County vs Fulham|262|<nullptr>|-1|-1|-1|14|16|0|2019|2|2|0|0|0|Derby County|Fulham|
+1|Derby County vs Huddersfield|263|<nullptr>|-1|-1|-1|14|17|0|2018|7|25|0|0|0|Derby County|Huddersfield|
+1|Derby County vs Hull City|264|<nullptr>|-1|-1|-1|14|18|0|2019|2|30|0|0|0|Derby County|Hull City|
+1|Derby County vs Ipswich Town|265|<nullptr>|-1|-1|-1|14|19|0|2019|3|13|0|0|0|Derby County|Ipswich Town|
+1|Derby County vs Leeds United|266|<nullptr>|-1|-1|-1|14|20|0|2018|8|22|0|0|0|Derby County|Leeds United|
+1|Everton vs Arsenal|267|<nullptr>|-1|-1|-1|15|1|0|2018|8|15|0|0|0|Everton|Arsenal|
+1|Everton vs Aston Villa|268|<nullptr>|-1|-1|-1|15|2|0|2018|10|10|0|0|0|Everton|Aston Villa|
+1|Everton vs Birmingham City|269|<nullptr>|-1|-1|-1|15|3|0|2018|9|20|0|0|0|Everton|Birmingham City|
+1|Everton vs Blackburn Rovers|270|<nullptr>|-1|-1|-1|15|4|0|2019|1|27|0|0|0|Everton|Blackburn Rovers|
+1|Everton vs Bolton Wanderers|271|<nullptr>|-1|-1|-1|15|5|0|2019|0|19|0|0|0|Everton|Bolton Wanderers|
+1|Everton vs Bournemouth|272|<nullptr>|-1|-1|-1|15|6|0|2018|7|25|0|0|0|Everton|Bournemouth|
+1|Everton vs Brentford|273|<nullptr>|-1|-1|-1|15|7|0|2019|3|6|0|0|0|Everton|Brentford|
+1|Everton vs Brighton|274|<nullptr>|-1|-1|-1|15|8|0|2019|2|9|0|0|0|Everton|Brighton|
+1|Everton vs Bristol City|275|<nullptr>|-1|-1|-1|15|9|0|2018|11|22|0|0|0|Everton|Bristol City|
+1|Everton vs Burnley|276|<nullptr>|-1|-1|-1|15|10|0|2019|1|23|0|0|0|Everton|Burnley|
+1|Everton vs Cardiff City|277|<nullptr>|-1|-1|-1|15|11|0|2018|8|29|0|0|0|Everton|Cardiff City|
+1|Everton vs Chelsea|278|<nullptr>|-1|-1|-1|15|12|0|2019|4|4|0|0|0|Everton|Chelsea|
+1|Everton vs Crystal Palace|279|<nullptr>|-1|-1|-1|15|13|0|2019|0|30|0|0|0|Everton|Crystal Palace|
+1|Everton vs Derby County|280|<nullptr>|-1|-1|-1|15|14|0|2019|0|1|0|0|0|Everton|Derby County|
+1|Everton vs Fulham|281|<nullptr>|-1|-1|-1|15|16|0|2019|3|20|0|0|0|Everton|Fulham|
+1|Everton vs Huddersfield|282|<nullptr>|-1|-1|-1|15|17|0|2018|7|11|0|0|0|Everton|Huddersfield|
+1|Everton vs Hull City|283|<nullptr>|-1|-1|-1|15|18|0|2018|10|3|0|0|0|Everton|Hull City|
+1|Everton vs Ipswich Town|284|<nullptr>|-1|-1|-1|15|19|0|2018|11|1|0|0|0|Everton|Ipswich Town|
+1|Everton vs Leeds United|285|<nullptr>|-1|-1|-1|15|20|0|2018|11|8|0|0|0|Everton|Leeds United|
+1|Fulham vs Arsenal|286|<nullptr>|-1|-1|-1|16|1|0|2018|11|15|0|0|0|Fulham|Arsenal|
+1|Fulham vs Aston Villa|287|<nullptr>|-1|-1|-1|16|2|0|2019|3|27|0|0|0|Fulham|Aston Villa|
+1|Fulham vs Birmingham City|288|<nullptr>|-1|-1|-1|16|3|0|2018|8|15|0|0|0|Fulham|Birmingham City|
+1|Fulham vs Blackburn Rovers|289|<nullptr>|-1|-1|-1|16|4|0|2018|7|11|0|0|0|Fulham|Blackburn Rovers|
+1|Fulham vs Bolton Wanderers|290|<nullptr>|-1|-1|-1|16|5|0|2019|1|9|0|0|0|Fulham|Bolton Wanderers|
+1|Fulham vs Bournemouth|291|<nullptr>|-1|-1|-1|16|6|0|2018|9|6|0|0|0|Fulham|Bournemouth|
+1|Fulham vs Brentford|292|<nullptr>|-1|-1|-1|16|7|0|2019|0|30|0|0|0|Fulham|Brentford|
+1|Fulham vs Brighton|293|<nullptr>|-1|-1|-1|16|8|0|2019|0|19|0|0|0|Fulham|Brighton|
+1|Fulham vs Bristol City|294|<nullptr>|-1|-1|-1|16|9|0|2019|1|27|0|0|0|Fulham|Bristol City|
+1|Fulham vs Burnley|295|<nullptr>|-1|-1|-1|16|10|0|2019|4|12|0|0|0|Fulham|Burnley|
+1|Fulham vs Cardiff City|296|<nullptr>|-1|-1|-1|16|11|0|2018|7|25|0|0|0|Fulham|Cardiff City|
+1|Fulham vs Chelsea|297|<nullptr>|-1|-1|-1|16|12|0|2019|3|6|0|0|0|Fulham|Chelsea|
+1|Fulham vs Crystal Palace|298|<nullptr>|-1|-1|-1|16|13|0|2018|11|29|0|0|0|Fulham|Crystal Palace|
+1|Fulham vs Derby County|299|<nullptr>|-1|-1|-1|16|14|0|2018|11|1|0|0|0|Fulham|Derby County|
+1|Fulham vs Everton|300|<nullptr>|-1|-1|-1|16|15|0|2018|9|27|0|0|0|Fulham|Everton|
+1|Fulham vs Huddersfield|301|<nullptr>|-1|-1|-1|16|17|0|2019|2|9|0|0|0|Fulham|Huddersfield|
+1|Fulham vs Hull City|302|<nullptr>|-1|-1|-1|16|18|0|2018|10|10|0|0|0|Fulham|Hull City|
+1|Fulham vs Ipswich Town|303|<nullptr>|-1|-1|-1|16|19|0|2018|11|26|0|0|0|Fulham|Ipswich Town|
+1|Fulham vs Leeds United|304|<nullptr>|-1|-1|-1|16|20|0|2019|3|13|0|0|0|Fulham|Leeds United|
+1|Huddersfield vs Arsenal|305|<nullptr>|-1|-1|-1|17|1|0|2019|2|2|0|0|0|Huddersfield|Arsenal|
+1|Huddersfield vs Aston Villa|306|<nullptr>|-1|-1|-1|17|2|0|2018|11|26|0|0|0|Huddersfield|Aston Villa|
+1|Huddersfield vs Birmingham City|307|<nullptr>|-1|-1|-1|17|3|0|2019|3|6|0|0|0|Huddersfield|Birmingham City|
+1|Huddersfield vs Blackburn Rovers|308|<nullptr>|-1|-1|-1|17|4|0|2018|11|15|0|0|0|Huddersfield|Blackburn Rovers|
+1|Huddersfield vs Bolton Wanderers|309|<nullptr>|-1|-1|-1|17|5|0|2018|9|6|0|0|0|Huddersfield|Bolton Wanderers|
+1|Huddersfield vs Bournemouth|310|<nullptr>|-1|-1|-1|17|6|0|2018|10|24|0|0|0|Huddersfield|Bournemouth|
+1|Huddersfield vs Brentford|311|<nullptr>|-1|-1|-1|17|7|0|2019|2|16|0|0|0|Huddersfield|Brentford|
+1|Huddersfield vs Brighton|312|<nullptr>|-1|-1|-1|17|8|0|2019|4|12|0|0|0|Huddersfield|Brighton|
+1|Huddersfield vs Bristol City|313|<nullptr>|-1|-1|-1|17|9|0|2018|7|18|0|0|0|Huddersfield|Bristol City|
+1|Huddersfield vs Burnley|314|<nullptr>|-1|-1|-1|17|10|0|2019|3|13|0|0|0|Huddersfield|Burnley|
+1|Huddersfield vs Cardiff City|315|<nullptr>|-1|-1|-1|17|11|0|2019|1|9|0|0|0|Huddersfield|Cardiff City|
+1|Huddersfield vs Chelsea|316|<nullptr>|-1|-1|-1|17|12|0|2018|8|15|0|0|0|Huddersfield|Chelsea|
+1|Huddersfield vs Crystal Palace|317|<nullptr>|-1|-1|-1|17|13|0|2018|9|27|0|0|0|Huddersfield|Crystal Palace|
+1|Huddersfield vs Derby County|318|<nullptr>|-1|-1|-1|17|14|0|2019|0|12|0|0|0|Huddersfield|Derby County|
+1|Huddersfield vs Everton|319|<nullptr>|-1|-1|-1|17|15|0|2019|1|2|0|0|0|Huddersfield|Everton|
+1|Huddersfield vs Fulham|320|<nullptr>|-1|-1|-1|17|16|0|2018|11|5|0|0|0|Huddersfield|Fulham|
+1|Huddersfield vs Hull City|321|<nullptr>|-1|-1|-1|17|18|0|2018|8|1|0|0|0|Huddersfield|Hull City|
+1|Huddersfield vs Ipswich Town|322|<nullptr>|-1|-1|-1|17|19|0|2019|3|27|0|0|0|Huddersfield|Ipswich Town|
+1|Huddersfield vs Leeds United|323|<nullptr>|-1|-1|-1|17|20|0|2018|11|29|0|0|0|Huddersfield|Leeds United|
+1|Hull City vs Arsenal|324|<nullptr>|-1|-1|-1|18|1|0|2019|3|13|0|0|0|Hull City|Arsenal|
+1|Hull City vs Aston Villa|325|<nullptr>|-1|-1|-1|18|2|0|2018|9|6|0|0|0|Hull City|Aston Villa|
+1|Hull City vs Birmingham City|326|<nullptr>|-1|-1|-1|18|3|0|2018|7|11|0|0|0|Hull City|Birmingham City|
+1|Hull City vs Blackburn Rovers|327|<nullptr>|-1|-1|-1|18|4|0|2019|0|19|0|0|0|Hull City|Blackburn Rovers|
+1|Hull City vs Bolton Wanderers|328|<nullptr>|-1|-1|-1|18|5|0|2018|11|15|0|0|0|Hull City|Bolton Wanderers|
+1|Hull City vs Bournemouth|329|<nullptr>|-1|-1|-1|18|6|0|2018|11|26|0|0|0|Hull City|Bournemouth|
+1|Hull City vs Brentford|330|<nullptr>|-1|-1|-1|18|7|0|2018|7|25|0|0|0|Hull City|Brentford|
+1|Hull City vs Brighton|331|<nullptr>|-1|-1|-1|18|8|0|2019|1|9|0|0|0|Hull City|Brighton|
+1|Hull City vs Bristol City|332|<nullptr>|-1|-1|-1|18|9|0|2019|3|6|0|0|0|Hull City|Bristol City|
+1|Hull City vs Burnley|333|<nullptr>|-1|-1|-1|18|10|0|2018|9|27|0|0|0|Hull City|Burnley|
+1|Hull City vs Cardiff City|334|<nullptr>|-1|-1|-1|18|11|0|2019|2|2|0|0|0|Hull City|Cardiff City|
+1|Hull City vs Chelsea|335|<nullptr>|-1|-1|-1|18|12|0|2018|10|24|0|0|0|Hull City|Chelsea|
+1|Hull City vs Crystal Palace|336|<nullptr>|-1|-1|-1|18|13|0|2018|11|4|0|0|0|Hull City|Crystal Palace|
+1|Hull City vs Derby County|337|<nullptr>|-1|-1|-1|18|14|0|2018|8|15|0|0|0|Hull City|Derby County|
+1|Hull City vs Everton|338|<nullptr>|-1|-1|-1|18|15|0|2018|11|29|0|0|0|Hull City|Everton|
+1|Hull City vs Fulham|339|<nullptr>|-1|-1|-1|18|16|0|2019|2|16|0|0|0|Hull City|Fulham|
+1|Hull City vs Huddersfield|340|<nullptr>|-1|-1|-1|18|17|0|2019|0|30|0|0|0|Hull City|Huddersfield|
+1|Hull City vs Ipswich Town|341|<nullptr>|-1|-1|-1|18|19|0|2019|4|12|0|0|0|Hull City|Ipswich Town|
+1|Hull City vs Leeds United|342|<nullptr>|-1|-1|-1|18|20|0|2019|3|27|0|0|0|Hull City|Leeds United|
+1|Ipswich Town vs Arsenal|343|<nullptr>|-1|-1|-1|19|1|0|2019|0|12|0|0|0|Ipswich Town|Arsenal|
+1|Ipswich Town vs Aston Villa|344|<nullptr>|-1|-1|-1|19|2|0|2018|7|18|0|0|0|Ipswich Town|Aston Villa|
+1|Ipswich Town vs Birmingham City|345|<nullptr>|-1|-1|-1|19|3|0|2019|0|1|0|0|0|Ipswich Town|Birmingham City|
+1|Ipswich Town vs Blackburn Rovers|346|<nullptr>|-1|-1|-1|19|4|0|2018|10|3|0|0|0|Ipswich Town|Blackburn Rovers|
+1|Ipswich Town vs Bolton Wanderers|347|<nullptr>|-1|-1|-1|19|5|0|2018|11|4|0|0|0|Ipswich Town|Bolton Wanderers|
+1|Ipswich Town vs Bournemouth|348|<nullptr>|-1|-1|-1|19|6|0|2018|8|22|0|0|0|Ipswich Town|Bournemouth|
+1|Ipswich Town vs Brentford|349|<nullptr>|-1|-1|-1|19|7|0|2018|11|8|0|0|0|Ipswich Town|Brentford|
+1|Ipswich Town vs Brighton|350|<nullptr>|-1|-1|-1|19|8|0|2019|2|30|0|0|0|Ipswich Town|Brighton|
+1|Ipswich Town vs Bristol City|351|<nullptr>|-1|-1|-1|19|9|0|2019|1|23|0|0|0|Ipswich Town|Bristol City|
+1|Ipswich Town vs Burnley|352|<nullptr>|-1|-1|-1|19|10|0|2019|2|16|0|0|0|Ipswich Town|Burnley|
+1|Ipswich Town vs Cardiff City|353|<nullptr>|-1|-1|-1|19|11|0|2019|3|20|0|0|0|Ipswich Town|Cardiff City|
+1|Ipswich Town vs Chelsea|354|<nullptr>|-1|-1|-1|19|12|0|2019|1|2|0|0|0|Ipswich Town|Chelsea|
+1|Ipswich Town vs Crystal Palace|355|<nullptr>|-1|-1|-1|19|13|0|2018|10|24|0|0|0|Ipswich Town|Crystal Palace|
+1|Ipswich Town vs Derby County|356|<nullptr>|-1|-1|-1|19|14|0|2018|8|29|0|0|0|Ipswich Town|Derby County|
+1|Ipswich Town vs Everton|357|<nullptr>|-1|-1|-1|19|15|0|2019|2|2|0|0|0|Ipswich Town|Everton|
+1|Ipswich Town vs Fulham|358|<nullptr>|-1|-1|-1|19|16|0|2019|4|4|0|0|0|Ipswich Town|Fulham|
+1|Ipswich Town vs Huddersfield|359|<nullptr>|-1|-1|-1|19|17|0|2018|9|20|0|0|0|Ipswich Town|Huddersfield|
+1|Ipswich Town vs Hull City|360|<nullptr>|-1|-1|-1|19|18|0|2018|11|22|0|0|0|Ipswich Town|Hull City|
+1|Ipswich Town vs Leeds United|361|<nullptr>|-1|-1|-1|19|20|0|2018|8|1|0|0|0|Ipswich Town|Leeds United|
+1|Leeds United vs Arsenal|362|<nullptr>|-1|-1|-1|20|1|0|2019|2|16|0|0|0|Leeds United|Arsenal|
+1|Leeds United vs Aston Villa|363|<nullptr>|-1|-1|-1|20|2|0|2018|11|15|0|0|0|Leeds United|Aston Villa|
+1|Leeds United vs Birmingham City|364|<nullptr>|-1|-1|-1|20|3|0|2019|3|20|0|0|0|Leeds United|Birmingham City|
+1|Leeds United vs Blackburn Rovers|365|<nullptr>|-1|-1|-1|20|4|0|2018|8|15|0|0|0|Leeds United|Blackburn Rovers|
+1|Leeds United vs Bolton Wanderers|366|<nullptr>|-1|-1|-1|20|5|0|2019|2|2|0|0|0|Leeds United|Bolton Wanderers|
+1|Leeds United vs Bournemouth|367|<nullptr>|-1|-1|-1|20|6|0|2018|11|4|0|0|0|Leeds United|Bournemouth|
+1|Leeds United vs Brentford|368|<nullptr>|-1|-1|-1|20|7|0|2019|0|1|0|0|0|Leeds United|Brentford|
+1|Leeds United vs Brighton|369|<nullptr>|-1|-1|-1|20|8|0|2018|7|11|0|0|0|Leeds United|Brighton|
+1|Leeds United vs Bristol City|370|<nullptr>|-1|-1|-1|20|9|0|2019|4|4|0|0|0|Leeds United|Bristol City|
+1|Leeds United vs Burnley|371|<nullptr>|-1|-1|-1|20|10|0|2018|10|24|0|0|0|Leeds United|Burnley|
+1|Leeds United vs Cardiff City|372|<nullptr>|-1|-1|-1|20|11|0|2019|0|19|0|0|0|Leeds United|Cardiff City|
+1|Leeds United vs Chelsea|373|<nullptr>|-1|-1|-1|20|12|0|2018|11|22|0|0|0|Leeds United|Chelsea|
+1|Leeds United vs Crystal Palace|374|<nullptr>|-1|-1|-1|20|13|0|2018|7|25|0|0|0|Leeds United|Crystal Palace|
+1|Leeds United vs Derby County|375|<nullptr>|-1|-1|-1|20|14|0|2019|3|6|0|0|0|Leeds United|Derby County|
+1|Leeds United vs Everton|376|<nullptr>|-1|-1|-1|20|15|0|2019|1|9|0|0|0|Leeds United|Everton|
+1|Leeds United vs Fulham|377|<nullptr>|-1|-1|-1|20|16|0|2018|8|29|0|0|0|Leeds United|Fulham|
+1|Leeds United vs Huddersfield|378|<nullptr>|-1|-1|-1|20|17|0|2018|10|3|0|0|0|Leeds United|Huddersfield|
+1|Leeds United vs Hull City|379|<nullptr>|-1|-1|-1|20|18|0|2018|9|20|0|0|0|Leeds United|Hull City|
+1|Leeds United vs Ipswich Town|380|<nullptr>|-1|-1|-1|20|19|0|2019|0|29|0|0|0|Leeds United|Ipswich Town|
+<FIXTURES>
+<SCHEDULE>

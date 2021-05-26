@@ -1,0 +1,9 @@
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/bin/Debug/netcoreapp3.1/cscommonlib.deps.json
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/bin/Debug/netcoreapp3.1/cscommonlib.dll
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/bin/Debug/netcoreapp3.1/cscommonlib.pdb
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.csprojAssemblyReference.cache
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.AssemblyInfoInputs.cache
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.AssemblyInfo.cs
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.csproj.CoreCompileInputs.cache
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.dll
+/Users/davidcooke/dev/src/cscommonlib/cscommonlib/obj/Debug/netcoreapp3.1/cscommonlib.pdb
