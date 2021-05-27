@@ -2,6 +2,11 @@
 
 namespace _COMMON_NS
 {
+    std::string CString::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CString) );
+    }
+
     void CString::log() const
     {
        std::cout << mString;

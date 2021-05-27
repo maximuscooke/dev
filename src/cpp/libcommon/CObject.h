@@ -8,7 +8,7 @@ namespace  _COMMON_NS
     class CObject
     {
         public:
-            _STATIC inline std::string platform();           
+            _STATIC _INLINE std::string platform();           
             _VIRTUAL void log() const;
             _VIRTUAL Integer compare(CObject* pObj);
             _VIRTUAL std::string toString() const;
@@ -17,7 +17,6 @@ namespace  _COMMON_NS
             _VIRTUAL Long id() const;
             _VIRTUAL std::string getClassName() const;
             _VIRTUAL ~CObject() { }
-             
      };
 }
 #endif

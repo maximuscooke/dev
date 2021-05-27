@@ -2,6 +2,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CThreadTimedMutex::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CThreadTimedMutex) );
+    }
+
     Bool CThreadTimedMutex::tryLockForTimedMutex(std::chrono::seconds t) 
     { 
         return mMutex.try_lock_for(t); 

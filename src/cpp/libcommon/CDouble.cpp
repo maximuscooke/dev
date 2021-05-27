@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CDouble::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CDouble) );
+    }
+
     void CDouble::log() const
     {
         std::cout << this->getValue();

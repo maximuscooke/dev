@@ -2,6 +2,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CThread::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CThread) );
+    }
+
     void CThread::doWork() 
     { 
         preDoWork(); 

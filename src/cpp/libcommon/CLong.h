@@ -24,7 +24,7 @@ namespace  _COMMON_NS
             _STATIC Long getMax();
             _STATIC Long getMin();
 
-            _OVERRIDE std::string getClassName() const { return std::string( (const char*)_QUOTE(CLong) ); }
+            _OVERRIDE std::string getClassName() const;
             _OVERRIDE void log() const;
             _OVERRIDE std::string toString() const;
             _OVERRIDE Integer compare(CObject* pObj);

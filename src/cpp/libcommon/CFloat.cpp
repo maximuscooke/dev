@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CFloat::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CFloat) );
+    }
+
     void CFloat::log() const
     {
         std::cout << this->getValue();

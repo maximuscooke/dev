@@ -2,6 +2,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CDateTime::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CDateTime) );
+    }
+
     void CDateTime::log() const
     {
         std::cout << CDateTime::asctime(&mLocalTime);

@@ -47,7 +47,7 @@ namespace  _COMMON_NS
 
             _OVERRIDE void     log() const;
   
-            _OVERRIDE std::string getClassName() const { return std::string( (stringPtr)_QUOTE(CTextFile) ); }
+            _OVERRIDE std::string getClassName() const;
     };
 }
 #endif

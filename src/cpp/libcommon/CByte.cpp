@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CByte::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CByte) );
+    }
+
     void CByte::log() const
     {
         std::cout << this->getValue();

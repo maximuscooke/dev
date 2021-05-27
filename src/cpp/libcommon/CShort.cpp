@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CShort::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CShort) );
+    }
+
     void CShort::log() const
     {
         std::cout << this->getValue();

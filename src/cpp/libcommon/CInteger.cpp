@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CInteger::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CInteger) );
+    }
+
     void CInteger::log() const
     {
         std::cout << this->getValue();

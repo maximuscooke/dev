@@ -67,7 +67,7 @@ namespace  _COMMON_NS
             _OVERRIDE void log() const;
             _OVERRIDE CObject* clone() const;
             _OVERRIDE Integer compare(CObject* pObj);
-            _OVERRIDE std::string getClassName() const { return std::string( (const char*)_QUOTE(CString) ); }
+            _OVERRIDE std::string getClassName() const;
   
             // Member Methods
             void append(const CString& str);

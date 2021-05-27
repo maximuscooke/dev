@@ -10,7 +10,7 @@ namespace  _COMMON_NS
         private:
             std::timed_mutex mMutex;
         
-            _OVERRIDE std::string getClassName() const { return std::string( (const char*)_QUOTE(CThreadTimedMutex) ); }
+            _OVERRIDE std::string getClassName() const;
 
       protected:
              Bool tryLockForTimedMutex(std::chrono::seconds t);

@@ -3,6 +3,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CLong::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CLong) );
+    }
+
     void CLong::log() const
     {
         std::cout << this->getValue();

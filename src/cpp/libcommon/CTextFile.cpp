@@ -7,6 +7,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CTextFile::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CTextFile) );
+    }
+
     void CTextFile::log() const
     {
         Count numLines = getLineCount();

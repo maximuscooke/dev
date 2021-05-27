@@ -7,6 +7,11 @@
 
 namespace  _COMMON_NS
 {
+    std::string CKeyValueFile::getClassName() const 
+    { 
+        return std::string( (const char*)_QUOTE(CKeyValueFile) );
+    }
+
     void CKeyValueFile::addKeyValue(stringPtr key, std::string val)
     {
         Char buffer[_BUFFER_SIZE];

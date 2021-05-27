@@ -31,6 +31,7 @@ typedef const void* Ptr;
 #define _PLATFORM "Platform Un-Specified"
 #define _INLINE inline
 #define _STATIC static
+#define _INLINE_STATIC inline static
 
 #define _ASCENDING  1
 #define _DESCENDING 2

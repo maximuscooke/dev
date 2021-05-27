@@ -20,7 +20,7 @@ namespace  _COMMON_NS
             _OVERRIDE void log() const;
             _OVERRIDE std::string toString() const;
 
-            _OVERRIDE std::string getClassName() const { return std::string( (const char*)_QUOTE(CLinePosition) ); }
+            _OVERRIDE std::string getClassName() const;
     };
 }
 #endif
