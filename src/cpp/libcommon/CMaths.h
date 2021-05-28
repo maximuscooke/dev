@@ -9,9 +9,9 @@ namespace  _COMMON_NS
     class CMaths : public CObject
     {
         public:
-            _OVERRIDE std::string getClassName() const;
+            std::string getClassName() const _OVERRIDE;
 
-            _STATIC void seed();
+            _STATIC void seedRandomNumber();
             _STATIC Integer genRandomNumber(Integer max);
     };
 }

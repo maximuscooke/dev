@@ -40,7 +40,7 @@ namespace  _COMMON_NS
             _SET_PROPERTY(std::string, MarkerBegin, mMarkerBegin)
             _SET_PROPERTY(std::string, MarkerEnd, mMarkerEnd)
 
-            _OVERRIDE std::string getClassName() const;
+            std::string getClassName() const _OVERRIDE;
     };
 }
 #endif

@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <iostream>
-#include "Common.h"
 #include <typeinfo>
+#include "Common.h"
 
 using namespace _COMMON_NS;
 
-#include <iostream>
 #include <algorithm>
 #include <vector>
 #include <string>

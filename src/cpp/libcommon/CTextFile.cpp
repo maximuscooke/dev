@@ -34,7 +34,7 @@ namespace  _COMMON_NS
         this->mLines.push_back(ln);
     }
 
-    void CTextFile::save(filePathPtr filePath, Bool bAppend)
+    void CTextFile::save(stringPtr filePath, Bool bAppend)
     {
          _LOGF("saving file %s", filePath);
 
@@ -71,7 +71,7 @@ namespace  _COMMON_NS
         mLines[a] = tmp;
     }
 
-    void CTextFile::open(filePathPtr filePath)
+    void CTextFile::open(stringPtr filePath)
     {
          _LOGF("opening file %s", filePath);
 
@@ -122,7 +122,7 @@ namespace  _COMMON_NS
 
              std::size_t colpos = ln.find(target);
 
-             if (colpos != -1L)
+             if (colpos != std::string::npos)
              {
                  CLinePosition lnpos = CLinePosition(idx, (Index)colpos);
                  

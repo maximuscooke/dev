@@ -45,7 +45,7 @@ namespace _COMMON_NS
             _STATIC std::thread start(CThread& t, Int id);
             _STATIC std::thread start(CThread& t, Int id, CThreadCallBack* cb);
 
-            _OVERRIDE   std::string getClassName() const;
+            std::string getClassName() const _OVERRIDE;
 
             _VIRTUAL    void runAsync() _ABSTRACT;
 

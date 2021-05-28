@@ -23,10 +23,10 @@ namespace  _COMMON_NS
                 mMsg = msg;
             }
 
-            _OVERRIDE std::string getClassName() const;
-            _OVERRIDE void log() const;
-            _OVERRIDE std::string toString() const;
-            _OVERRIDE const char* what() const noexcept
+            std::string getClassName() const _OVERRIDE;
+            void log() const _OVERRIDE;
+            std::string toString() const _OVERRIDE;
+            const char* what() const noexcept _OVERRIDE
             {
                 return (const char*)mMsg.c_str();
             }

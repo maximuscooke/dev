@@ -24,10 +24,10 @@ namespace  _COMMON_NS
             _STATIC Integer getMax(); 
             _STATIC Integer getMin();
   
-            _OVERRIDE std::string getClassName() const;
-            _OVERRIDE void log() const;
-            _OVERRIDE std::string toString() const;
-            _OVERRIDE Integer compare(CObject* pObj);
+            std::string getClassName() const _OVERRIDE;
+            void log() const _OVERRIDE;
+            std::string toString() const _OVERRIDE;
+            Integer compare(CObject* pObj) _OVERRIDE;
 
             _OP_NUMERIC(CInteger, Integer, mValue)
             _OP_NUMERIC_MOD(CInteger, Integer, mValue)

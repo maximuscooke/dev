@@ -33,7 +33,7 @@ namespace  _COMMON_NS
         {
             std::string ln = getLineAt(i);
         
-            if (ln.find(fullKey) != -1L)
+            if (ln.find(fullKey) != std::string::npos)
             {
                 return ln.substr(fullKey.length());
             }

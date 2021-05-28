@@ -16,7 +16,6 @@ typedef int Int, Integer;
 typedef unsigned int UInteger, UInt, Index, Count;
 typedef float Real;
 typedef bool Boolean, Bool;
-typedef const char* filePathPtr;
 typedef const char* stringPtr;
 typedef const void* Ptr;
 
@@ -26,7 +25,7 @@ typedef const void* Ptr;
 
 #define _ABSTRACT =0
 #define _VIRTUAL virtual
-#define _OVERRIDE virtual
+#define _OVERRIDE override
 #define _IMPLEMENT virtual
 #define _PLATFORM "Platform Un-Specified"
 #define _INLINE inline

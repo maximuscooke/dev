@@ -27,12 +27,12 @@ namespace  _COMMON_NS
           
             _INLINE T operator[](Index index) { return this->mVector[index]; }
 
-            _OVERRIDE   void log() const;
-            _OVERRIDE   void clear();
-            _OVERRIDE   Boolean isEmpty() const;
-            _OVERRIDE   std::string getClassName() const;
-            _OVERRIDE   std::string toString() const;
-            _OVERRIDE   Count getElementCount() const { return getCount(); };
+            void log() const _OVERRIDE;
+            void clear() _OVERRIDE;
+            Boolean isEmpty() const _OVERRIDE;
+            std::string getClassName() const _OVERRIDE;
+            std::string toString() const _OVERRIDE;
+            Count getElementCount() const _OVERRIDE { return getCount(); };
             
             std::string toString(std::function<std::string (T)> lfnc) const;
             _INLINE std::string toString(T t, std::function<std::string (T)>) const;

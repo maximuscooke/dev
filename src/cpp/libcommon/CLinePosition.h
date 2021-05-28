@@ -12,15 +12,19 @@ namespace  _COMMON_NS
             Index mColumn;
 
         public:
-            CLinePosition(Index ln, Index col) { mLineNumber = ln, mColumn = col; };
+            CLinePosition(Index ln, Index col) 
+            { 
+                mLineNumber = ln, 
+                mColumn = col; 
+            };
 
             _GET_PROPERTY(Index, LineNumber, mLineNumber)
             _GET_PROPERTY(Index, Column, mColumn)
 
-            _OVERRIDE void log() const;
-            _OVERRIDE std::string toString() const;
+            void log() const _OVERRIDE;
+            std::string toString() const _OVERRIDE;
 
-            _OVERRIDE std::string getClassName() const;
+             std::string getClassName() const _OVERRIDE;
     };
 }
 #endif

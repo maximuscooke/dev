@@ -3,7 +3,6 @@
 
 #include "CObject.h"
 
-
 #define _MB_AUTO_DELETE (1<<0)
 #define _MB_AUTO_INIT   (1<<1)
 
@@ -92,7 +91,7 @@ namespace  _COMMON_NS
             }
 
         public:
-            _OVERRIDE ~CMemBlock() 
+            _VIRTUAL ~CMemBlock() 
             { 
                 if (mOptions & _MB_AUTO_DELETE)
                 {

@@ -64,11 +64,11 @@ namespace  _COMMON_NS
 
             Integer operator==(const CDateTime& obj) { return compare( (CObject*)&obj); }
 
-            _OVERRIDE std::string toString() const;
-            _OVERRIDE void log() const;
-            _OVERRIDE CObject* clone() const;
-            _OVERRIDE Integer compare(CObject* pObj);
-            _OVERRIDE std::string getClassName() const;
+            std::string toString() const _OVERRIDE;
+            void log() const _OVERRIDE;
+            CObject* clone() const _OVERRIDE;
+            Integer compare(CObject* pObj) _OVERRIDE;
+            std::string getClassName() const _OVERRIDE;
 
             _INLINE Integer getYear()       const { return mLocalTime.tm_year + _DATE_OFFSET; }
             _INLINE Integer getMonth()      const { return mLocalTime.tm_mon; }
@@ -81,7 +81,7 @@ namespace  _COMMON_NS
             _INLINE char*   getTimeZone()   const { return mLocalTime.tm_zone; }
   
             _INLINE time_t getTime() { return mTime; }
-            void setTime(time_t t) { mTime = t; struct tm* ptr = localtime(&mTime);  mLocalTime = *ptr; }
+            void setTime(time_t t);
 
             _INLINE struct tm getLocalTime() { return this->mLocalTime; }
     };

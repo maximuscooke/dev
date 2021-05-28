@@ -31,23 +31,22 @@ namespace  _COMMON_NS
             _INLINE void        setLineAt(Index i, std::string ln) { mLines[i] = ln; }
             _INLINE void        insertLineAt(std::string ln, Index i) { mLines.insert(mLines.begin()+i, ln); }
 
-            _INLINE void        save(filePathPtr filePath) { save(filePath, false); }
+            _INLINE void        save(stringPtr filePath) { save(filePath, false); }
             _INLINE void        reverse() { std::reverse(std::begin(mLines), std::end(mLines)); }
-            void                save(filePathPtr filePath, Bool bAppend);
-            void                open(filePathPtr filePath);
+            void                save(stringPtr filePath, Bool bAppend);
+            void                open(stringPtr filePath);
             void                swap(Index a, Index b);
-            Bool                isEmpty() { return mLines.empty(); }
+            _INLINE Bool        isEmpty() { return mLines.empty(); }
             void                sort(SortOrder order = Descending, std::function<Integer (std::string, std::string)> f = [](std::string a, std::string b) { return a > b; } );
             void                shuffle();
-
 
             std::vector<CLinePosition> findInFile(std::string) const;
             _INLINE std::vector<CLinePosition> findInFile(stringPtr target) const { return findInFile( std::string( target ) ); };
             _INLINE std::vector<CLinePosition> findInFile(CString& target) const { return findInFile( target.getString() ); };
 
-            _OVERRIDE void     log() const;
+            void log() const _OVERRIDE;
   
-            _OVERRIDE std::string getClassName() const;
+            std::string getClassName() const _OVERRIDE;
     };
 }
 #endif

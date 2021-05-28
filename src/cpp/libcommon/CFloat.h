@@ -24,10 +24,10 @@ namespace  _COMMON_NS
             _STATIC Float getMax();
             _STATIC Float getMin();
 
-            _OVERRIDE std::string getClassName() const;
-            _OVERRIDE void log() const;
-            _OVERRIDE std::string toString() const;
-            _OVERRIDE Integer compare(CObject* pObj);
+            std::string getClassName() const _OVERRIDE;
+            void log() const _OVERRIDE;
+            std::string toString() const _OVERRIDE;
+            Integer compare(CObject* pObj) _OVERRIDE;
 
             _OP_NUMERIC(CFloat, Float, mValue)
             _PROPERTY(Float, Value, mValue)

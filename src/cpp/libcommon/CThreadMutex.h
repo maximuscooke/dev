@@ -10,7 +10,7 @@ namespace  _COMMON_NS
         private:
             std::mutex mMutex;
         
-            _OVERRIDE std::string getClassName() const { return std::string( (const char*)_QUOTE(CThreadMutex) ); }
+            std::string getClassName() const _OVERRIDE;
 
         protected:
             void lockMutex();
