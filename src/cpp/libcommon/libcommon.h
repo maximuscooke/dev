@@ -99,7 +99,7 @@ enum FileMode : int { Read = (1<<FILE_MODE_READ_BIT), Write = (1<<FILE_MODE_WRIT
 #ifdef SUPPRESS_TYPE_CHECK
 #define _TYPE_CHECK_OBJECT(type, obj)
 #else
-#define _TYPE_CHECK_OBJECT(type, obj) if(!dynamic_cast<type>(obj))  std::cerr << "Warning: Class type mismatch" << std::endl
+#define _TYPE_CHECK_OBJECT(type, obj) if(!dynamic_cast<type>(obj)) std::cerr << "Warning: Class type mismatch" << std::endl
 #endif
 
 #define _BIT_TEST(op, bit)   (op &  (1<<bit))
